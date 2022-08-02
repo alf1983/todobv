@@ -8,7 +8,7 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         username = 'admin1'
         password = '123'
-        email = "admin1@todobv.site"
+        email = "admin1@tobvae.site"
         firstname = ""
         lastname = ""
 
